@@ -1,0 +1,179 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#container{
+	width: 100%;
+	height: 700px;
+	background-color: #FFF3BA;
+	padding: 10%;
+
+}
+i{
+    line-height: 1.5;
+}
+ ul{
+    list-style-type: none;
+    margin-left:5px;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+    height: 150px;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+/*first social media icon
+*/i.fa-facebook{
+	color: #fff;
+}
+i.fa-facebook:hover{
+    color: #3b5998;
+
+}
+/*twitter*/
+
+i.fa-twitter{
+	color:#55acee;
+}
+i.fa-twitter:hover{
+    color: #fff;
+}
+/*linkedin*/
+
+i.fa-linkedin{
+	color: #fff;
+}
+i.fa-linkedin:hover{
+    color: #007bb5;
+}
+/*linkedin*/
+
+/*instagram*/
+i.fa-instagram{
+	color: #fff;
+}
+.fa-instagram:hover{
+    color: #125688;
+}
+/*instagram*/
+
+li {
+    float: left;
+    text-align: center;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ul #facebook{
+background-color: #3b5998;
+ width: 100px;
+    height: 100px;
+     border: 1px solid;
+    border-radius: 50%;
+}
+ul#facebook:hover{
+    color: #fff;
+}
+
+
+ul #twitter{
+background-color:#fff;
+ width: 100px;
+ height: 100px;
+border: 1px solid;
+    border-radius: 50%;
+}
+ul #twitter:hover{
+ color:#55acee; 
+}
+
+ul #linkedin{
+background-color: #007bb5;
+ width: 100px;
+    height: 100px;
+     border: 1px solid;
+    border-radius: 50%;
+}
+ul #linkedin:hover{
+   background-color: #fff; 
+}
+
+ul #instagram{
+background-color: #125688;
+ width: 100px;
+    height: 100px;
+     border: 1px solid;
+   border-radius: 50%;
+}
+ul #instagram:hover{
+      background-color: #fff;
+}
+ ul #facebook:hover{
+    background-color: #fff;
+}
+ul #twitter:hover{
+    background-color:#55acee;
+}
+ul #instagram:hover{
+    background-color: #fff;
+}
+ul #linkedinin:hover{
+    background-color: #fff;
+}
+
+/*second social icons*/
+
+ul #FACEBOOK{
+background-color: #3b5998;
+ width: 100px;
+    height: 100px;
+     border: 1px solid;
+   
+}
+
+ul #TWITTER{
+background-color: #fff;
+ width: 100px;
+    height: 100px;
+     border: 1px solid;
+    
+}
+ul #LINKED-IN{
+background-color: #007bb5;
+ width: 100px;
+    height: 100px;
+     border: 1px solid;
+   
+}
+ul #INSTAGRAM{
+background-color: #125688;
+ width: 100px;
+    height: 100px;
+     border: 1px solid;
+   
+}
+ ul #FACEBOOK:hover{
+    background-color: #fff;
+}
+ul #TWITTER:hover{
+    background-color:#55acee;
+}
+ul #INSTAGRAM:hover{
+    background-color: #fff;
+}
+ul #LINKED-IN:hover{
+    background-color: #fff;
+}
+    
+
+
